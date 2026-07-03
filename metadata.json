@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "O'zbek tilidagi zamonaviy va interaktiv Pomodoro taymeri. Ish va dam olish sikllarini kuzatish, sozlamalarni saqlash va go'zal vizual dizayn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
